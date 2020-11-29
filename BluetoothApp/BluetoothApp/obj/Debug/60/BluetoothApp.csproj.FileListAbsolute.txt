@@ -1,0 +1,4 @@
+E:\GitHub\Robus_App\BluetoothApp\BluetoothApp\obj\Debug\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+E:\GitHub\Robus_App\BluetoothApp\BluetoothApp\obj\Debug\60\build.props
+E:\GitHub\Robus_App\BluetoothApp\BluetoothApp\obj\Debug\60\adb.props
+E:\GitHub\Robus_App\BluetoothApp\BluetoothApp\obj\Debug\60\BluetoothApp.csprojAssemblyReference.cache
